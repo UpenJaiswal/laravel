@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/home', 'HtmlController@home');
+Route::get('/', 'HtmlController@home');
 Route::get('/about', 'HtmlController@about');
 Route::get('/book', 'HtmlController@book');
 Route::post('/save', 'HtmlController@savebook')->name('sadhvi');
