@@ -8,7 +8,9 @@
         {{ session()->get('message') }}
     </div>
 @endif
-
+<style>.alert-success {
+    text-align: center !important;
+}</style>
 @section("book")
 <section class="home-main section-e">
          <div class="container">
