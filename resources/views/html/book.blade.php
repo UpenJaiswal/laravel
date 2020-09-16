@@ -2,6 +2,12 @@
 
 @section("title", "Book")
 
+@section("home")
+@if(session()->has('message'))
+    <div class="alert alert-success">
+        {{ session()->get('message') }}
+    </div>
+@endif
 
 @section("book")
 <section class="home-main section-e">
@@ -16,34 +22,38 @@
                </div>
                <div class="col-md-6 col-sm-12 col-xs-12 sec-e-right">
                   <div class="get-form">
-                     <form>
+
+                     <form method="post" action="{{url('save')}}">
+                     @csrf
+
+
                         <div class="col-sm-12 pad-left pad-right">
                            <h4>Book Appointment</h4>
                         </div>
                         <div class="col-sm-6 pad-left">
-                           <div class="form-group"><label>Name</label><input type="text" class="form-control"
+                           <div class="form-group"><label>First Name</label><input type="text" name="firstname" class="form-control"
                               id="Your Name"></div>
                         </div>
                         <div class="col-sm-6 pad-right">
-                           <div class="form-group"><label>Name</label><input type="email" class="form-control"
+                           <div class="form-group"><label>Last Name</label><input type="text" name="lastname" class="form-control"
                               id="Your Email"></div>
                         </div>
                         <div class="col-sm-6 pad-left">
-                           <div class="form-group"><label>Email</label><input type="email" class="form-control"
+                           <div class="form-group"><label>Email</label><input type="email" name="email" class="form-control"
                               id="Your Email"></div>
                         </div>
                         <div class="col-sm-6 pad-right">
-                           <div class="form-group"><label>Phone No.</label><input type="text" class="form-control"
+                           <div class="form-group"><label>Phone No.</label><input type="text" name="phone" class="form-control"
                               id="Your Name"></div>
                         </div>
                         <div class="col-sm-12 pad-left pad-right">
-                           <div class="form-group"><label>Subject</label><input type="email" class="form-control"
+                           <div class="form-group"><label>Subject</label><input type="text" name="subject" class="form-control"
                               id="Subject"></div>
                         </div>
                         <div class="col-sm-12 pad-left pad-right">
                            <div class="form-group">
                               <label>Type Your Message</label>
-                              <textarea class="form-control" rows="5" id="comment"></textarea>
+                              <textarea class="form-control" rows="5" id="comment" name="message"></textarea>
                            </div>
                         </div>
                         <div class="col-sm-12 pad-left pad-right">

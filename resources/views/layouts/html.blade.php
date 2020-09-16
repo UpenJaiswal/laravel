@@ -34,7 +34,7 @@
                            <a href="tel:+91-9793002002"><i class="fa fa-phone" aria-hidden="true"></i> <span><strong>Call Us
                            :</strong> +91-9793002002</span></a>
                         </li>
-                        <li><a href="{{ url('/') }}" class="btn grey-btn">BOOK ONLINE</a></li>
+                        <li><a href="{{ url('/book') }}" class="btn grey-btn">BOOK ONLINE</a></li>
                      </ul>
                   </div>
                </div>
