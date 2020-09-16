@@ -11,9 +11,9 @@
                <div class="container">
                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                      <div class="slide-content">
-                        <h6>OMNI Pain & Precision Medicine</h6>
+                        <h6>Website Development</h6>
                         <hr>
-                        <p>Spine & Orthopedic Medicine Specialist located in Clinton, NY</p>
+                        <p></p>
                         <div class="slider-btn text-center"> <a href="tel:+91-9793002002"
                            class="btn grey-btn">+91-9793002002</a> </div>
                      </div>
@@ -32,7 +32,7 @@
                <div class="author">
                   <div class="col-md-9 col-sm-7 col-xs-12">
                      <div class="heading">
-                        <h1 class="text-left">About OMNI</h1>
+                        <h1 class="text-left">About</h1>
                      </div>
                      <p>The exceptional team at OMNI Pain & Precision Medicine offers the latest in pain management at
                         their office in Clinton, New York. Their board-certified surgeons use state-of-the-art equipment in
@@ -51,8 +51,8 @@
                         <figure>
                            <img src="images/doctor.jpg" class="img-responsive" alt="">
                            <figcaption>
-                              <p>Nameer Haider, M.D.</p>
-                              <p>Spine Specialist</p>
+                            <p>Upen Jaiswal, CEO </p>
+                            <p>Web Developer</p>
                            </figcaption>
                         </figure>
                      </div>
@@ -125,9 +125,8 @@
                               <img src="images/service-1.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Spinal Cord Stimulation</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                              <h6>Website Development</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -139,9 +138,8 @@
                               <img src="images/service-2.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Neck Pain</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                              <h6>Web App Dvelopment</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -153,9 +151,8 @@
                               <img src="images/service-3.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Joint Pain</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                              <h6>Mobile App Development</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -167,9 +164,8 @@
                               <img src="images/service-1.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Spinal Cord Stimulation</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                           <h6>Website Development</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -181,9 +177,8 @@
                               <img src="images/service-2.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Neck Pain</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                           <h6>Web App Dvelopment</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -195,9 +190,8 @@
                               <img src="images/service-3.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Joint Pain</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                           <h6>Mobile App Development</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -209,9 +203,8 @@
                               <img src="images/service-1.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Spinal Cord Stimulation</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                           <h6>Website Development</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -223,9 +216,8 @@
                               <img src="images/service-2.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Neck Pain</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                           <h6>Web App Dvelopment</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>
@@ -237,9 +229,8 @@
                               <img src="images/service-3.jpg" class="img-responsive" alt="">
                            </figure>
                            <div class="serv-content">
-                              <h6>Joint Pain</h6>
-                              <p>If you have chronic pain in your back, legs, or arms, spinal cord stimulation may provide
-                                 the relief you need
+                           <h6>Mobile App Development</h6>
+                              <p>
                               </p>
                               <aside><a href="#" class="btn grey-btn">More Info</a></aside>
                            </div>

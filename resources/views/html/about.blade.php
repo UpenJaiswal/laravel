@@ -10,7 +10,7 @@
                <div class="author">
                   <div class="col-md-9 col-sm-7 col-xs-12">
                      <div class="heading">
-                        <h1 class="text-left">About OMNI</h1>
+                        <h1 class="text-left">About</h1>
                      </div>
                      <p>The exceptional team at OMNI Pain & Precision Medicine offers the latest in pain management at
                         their office in Clinton, New York. Their board-certified surgeons use state-of-the-art equipment in
@@ -29,8 +29,8 @@
                         <figure>
                            <img src="images/doctor.jpg" class="img-responsive" alt="">
                            <figcaption>
-                              <p>Nameer Haider, M.D.</p>
-                              <p>Spine Specialist</p>
+                              <p>Upen Jaiswal, CEO </p>
+                              <p>Web Developer</p>
                            </figcaption>
                         </figure>
                      </div>

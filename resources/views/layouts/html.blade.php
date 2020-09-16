@@ -57,28 +57,31 @@
                      </button>
                   </div>
                   <!-- Collect the nav links, forms, and other content for toggling -->
-                  <div class="collapse navbar-collapse" id="myNavbar">
+                  <div class="collapse navbar-collapse" style="margin-left: 130px;" id="myNavbar">
                      <ul class="nav navbar-nav">
                         <li class="active"><a href="{{ url('/') }}">Home</a></li>
+                        <li><a href="{{ url('/about') }}">About</a></li>
                         <li class="dropdown">
-                           <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Education <span
+                           <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Services <span
                               class="caret"></span></a>
                            <ul class="dropdown-menu">
                               <li class="dropdown dropdown-submenu">
-                                 <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Patient Education Videos <span
+                                 <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">CMS<span
                                     class="caret"></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a href="{{ url('/') }}">MORE VIDEOS</a></li>
+                                    <li><a href="{{ url('/') }}">Wordpress</a></li>
+                                    <li><a href="{{ url('/') }}">Magento</a></li>
                                  </ul>
                               </li>
-                              <li><a href="{{ url('/') }}">Pain Treatment</a></li>
-                              <li><a href="{{ url('/') }}">Fellowship Program</a></li>
+                              <li><a href="{{ url('/') }}">Laravel</a></li>
+                              <li><a href="{{ url('/') }}">React JS</a></li>
+                              <li><a href="{{ url('/') }}">Angular JS</a></li>
                            </ul>
                         </li>
-                        <li><a href="{{ url('/about') }}">About Practice</a></li>
-                        <li><a href="{{ url('/') }}">Providers</a></li>
+                       
+                        <li><a href="{{ url('/') }}">Portfolio</a></li>
                         <li class="dropdown">
-                           <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Services <span
+                           <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Case Study <span
                               class="caret"></span></a>
                            <ul class="dropdown-menu">
                               <li><a href="{{ url('/') }}">Spinal Cord Stimulation</a></li>
@@ -92,10 +95,10 @@
                               <li><a href="{{ url('/') }}">View More Services</a></li>
                            </ul>
                         </li>
-                        <li><a href="regenerative-medicine.html">Regenerative Medicine</a></li>
-                        <li><a href="{{ url('/') }}">Fees And Insurance</a></li>
-                        <li><a href="{{ url('/') }}">Testimonials</a></li>
-                        <li><a href="contact.html">contact</a></li>
+                        <li><a href="regenerative-medicine.html">Blog</a></li>
+                        <li><a href="{{ url('/') }}">Contact</a></li>
+                        <li><a href="{{ url('/') }}">Projects</a></li>
+                        <li><a href="contact.html">Landing</a></li>
                      </ul>
                   </div>
                   <!-- /.navbar-collapse -->
