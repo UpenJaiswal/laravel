@@ -14,8 +14,8 @@
                         <h6>OMNI Pain & Precision Medicine</h6>
                         <hr>
                         <p>Spine & Orthopedic Medicine Specialist located in Clinton, NY</p>
-                        <div class="slider-btn text-center"> <a href="tel:3154981346"
-                           class="btn grey-btn">315-498-1346</a> </div>
+                        <div class="slider-btn text-center"> <a href="tel:+91-9793002002"
+                           class="btn grey-btn">+91-9793002002</a> </div>
                      </div>
                   </div>
                </div>
