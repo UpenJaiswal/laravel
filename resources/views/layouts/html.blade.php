@@ -22,7 +22,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-3 col-sm-4 col-xs-12">
-                     <div class="brand-logo"><a href="{{ url('/') }}"><img src="images/logo.png" height="68"" alt=""></a></div>
+                     <div class="brand-logo"><a href="{{ url('/') }}"><img src="images/logo.png" height="59" alt=""></a></div>
                   </div>
                   <div class="col-md-9 col-sm-8 col-xs-12">
                      <ul class="list-unstyled top-info">
