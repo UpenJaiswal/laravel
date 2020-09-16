@@ -22,7 +22,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-3 col-sm-4 col-xs-12">
-                     <div class="brand-logo"><a href="{{ url('/') }}"><img src="images/logo.png" alt=""></a></div>
+                     <div class="brand-logo"><a href="{{ url('/') }}"><img src="images/logo.png" height="68"" alt=""></a></div>
                   </div>
                   <div class="col-md-9 col-sm-8 col-xs-12">
                      <ul class="list-unstyled top-info">
@@ -134,7 +134,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-4 col-sm-6 col-xs-12 footer-box">
-                     <h6>OMNI Pain & Precision Medicine</h6>
+                     <h6>Contact</h6>
                      <ul class="list-unstyled add_info">
                         <li>
                            <p>Address</p>
