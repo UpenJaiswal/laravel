@@ -28,11 +28,11 @@
                      <ul class="list-unstyled top-info">
                         <li>
                            <a href="mailto:bamcjobs@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>
-                           <span><strong>Mail Us :</strong> bamcjobs@gmail.com</span></a>
+                           <span><strong>Mail Us :</strong> upen.j1986@gmail.com</span></a>
                         </li>
                         <li>
                            <a href="tel:3042376489"><i class="fa fa-phone" aria-hidden="true"></i> <span><strong>Call Us
-                           :</strong> +1-304-237-6489</span></a>
+                           :</strong> +91-9793002002</span></a>
                         </li>
                         <li><a href="#" class="btn grey-btn">BOOK ONLINE</a></li>
                      </ul>
@@ -59,42 +59,42 @@
                   <!-- Collect the nav links, forms, and other content for toggling -->
                   <div class="collapse navbar-collapse" id="myNavbar">
                      <ul class="nav navbar-nav">
-                        <li class="active"><a href="{{ url('/home') }}">Home</a></li>
+                        <li class="active"><a href="{{ url('/') }}">Home</a></li>
                         <li class="dropdown">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Education <span
+                           <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Education <span
                               class="caret"></span></a>
                            <ul class="dropdown-menu">
                               <li class="dropdown dropdown-submenu">
-                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Patient Education Videos <span
+                                 <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Patient Education Videos <span
                                     class="caret"></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a href="#">MORE VIDEOS</a></li>
+                                    <li><a href="{{ url('/') }}">MORE VIDEOS</a></li>
                                  </ul>
                               </li>
-                              <li><a href="#">Pain Treatment</a></li>
-                              <li><a href="#">Fellowship Program</a></li>
+                              <li><a href="{{ url('/') }}">Pain Treatment</a></li>
+                              <li><a href="{{ url('/') }}">Fellowship Program</a></li>
                            </ul>
                         </li>
-                        <li><a href="about.html">About Practice</a></li>
-                        <li><a href="#">Providers</a></li>
+                        <li><a href="{{ url('/about') }}">About Practice</a></li>
+                        <li><a href="{{ url('/') }}">Providers</a></li>
                         <li class="dropdown">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <span
+                           <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown">Services <span
                               class="caret"></span></a>
                            <ul class="dropdown-menu">
-                              <li><a href="#">Spinal Cord Stimulation</a></li>
-                              <li><a href="#">Neck Pain</a></li>
-                              <li><a href="#">Joint Pain</a></li>
-                              <li><a href="#">Spine</a></li>
-                              <li><a href="#">Minimally Invasive Spine Surgery</a></li>
-                              <li><a href="#">Stem Cells</a></li>
-                              <li><a href="#">Sacroiliac Joint Disease</a></li>
-                              <li><a href="#">Arthritis</a></li>
-                              <li><a href="#">View More Services</a></li>
+                              <li><a href="{{ url('/') }}">Spinal Cord Stimulation</a></li>
+                              <li><a href="{{ url('/') }}">Neck Pain</a></li>
+                              <li><a href="{{ url('/') }}">Joint Pain</a></li>
+                              <li><a href="{{ url('/') }}">Spine</a></li>
+                              <li><a href="{{ url('/') }}">Minimally Invasive Spine Surgery</a></li>
+                              <li><a href="{{ url('/') }}">Stem Cells</a></li>
+                              <li><a href="{{ url('/') }}">Sacroiliac Joint Disease</a></li>
+                              <li><a href="{{ url('/') }}">Arthritis</a></li>
+                              <li><a href="{{ url('/') }}">View More Services</a></li>
                            </ul>
                         </li>
                         <li><a href="regenerative-medicine.html">Regenerative Medicine</a></li>
-                        <li><a href="#">Fees And Insurance</a></li>
-                        <li><a href="#">Testimonials</a></li>
+                        <li><a href="{{ url('/') }}">Fees And Insurance</a></li>
+                        <li><a href="{{ url('/') }}">Testimonials</a></li>
                         <li><a href="contact.html">contact</a></li>
                      </ul>
                   </div>
