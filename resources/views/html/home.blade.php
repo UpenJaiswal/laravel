@@ -2,7 +2,7 @@
 
 @section("title", "Homepage")
 
-
+@section("home")
 <div class="slider-main">
          <!-- Start Main Slider -->
       <div id="main-slider">
