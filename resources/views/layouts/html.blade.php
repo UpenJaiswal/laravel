@@ -22,19 +22,19 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-3 col-sm-4 col-xs-12">
-                     <div class="brand-logo"><a href="index.html"><img src="images/logo.png" alt=""></a></div>
+                     <div class="brand-logo"><a href="{{ url('/') }}"><img src="images/logo.png" alt=""></a></div>
                   </div>
                   <div class="col-md-9 col-sm-8 col-xs-12">
                      <ul class="list-unstyled top-info">
                         <li>
-                           <a href="mailto:bamcjobs@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>
+                           <a href="mailto:upen.j1986@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>
                            <span><strong>Mail Us :</strong> upen.j1986@gmail.com</span></a>
                         </li>
                         <li>
-                           <a href="tel:3042376489"><i class="fa fa-phone" aria-hidden="true"></i> <span><strong>Call Us
+                           <a href="tel:+91-9793002002"><i class="fa fa-phone" aria-hidden="true"></i> <span><strong>Call Us
                            :</strong> +91-9793002002</span></a>
                         </li>
-                        <li><a href="#" class="btn grey-btn">BOOK ONLINE</a></li>
+                        <li><a href="{{ url('/') }}" class="btn grey-btn">BOOK ONLINE</a></li>
                      </ul>
                   </div>
                </div>
@@ -140,12 +140,12 @@
                         </li>
                         <li>
                            <p>Email Us</p>
-                           <a href="mailto:bamcjobs@gmail.com">bamcjobs@gmail.com</a>
+                           <a href="mailto:upen.j1986s@gmail.com">upen.j1986@gmail.com</a>
                         </li>
                         <li>
                            <p>Call Us</p>
-                           <a href="tel:3154981346">(Appointments): 315-498-1346</a>
-                           <a href="tel:3157988737">(General Inquiries): 315-798-8737</a>
+                           <a href="tel:+91-9793002002">(Appointments): +91-9793002002</a>
+                           <a href="tel:+91-9793002002">(General Inquiries): +91-9793002002</a>
                         </li>
                      </ul>
                   </div>
@@ -163,15 +163,15 @@
                   <div class="col-md-4 col-sm-12 col-xs-12 footer-box">
                      <h6>Main Links</h6>
                      <ul class="list-unstyled main_links">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="#">Education</a></li>
-                        <li><a href="about.html">About Practice</a></li>
-                        <li><a href="#">Providers</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Regenerative Medicine</a></li>
-                        <li><a href="#">Fees And Insurance</a></li>
-                        <li><a href="#">Testimonials</a></li>
-                        <li><a href="contact.html">contact</a></li>
+                        <li><a href="{{ url('/') }}">Home</a></li>
+                        <li><a href="{{ url('/') }}">Education</a></li>
+                        <li><a href="{{ url('/about') }}">About Practice</a></li>
+                        <li><a href="{{ url('/') }}">Providers</a></li>
+                        <li><a href="{{ url('/') }}">Services</a></li>
+                        <li><a href="{{ url('/') }}">Regenerative Medicine</a></li>
+                        <li><a href="{{ url('/') }}">Fees And Insurance</a></li>
+                        <li><a href="{{ url('/') }}">Testimonials</a></li>
+                        <li><a href="{{ url('/') }}">contact</a></li>
                      </ul>
                   </div>
                </div>
@@ -184,7 +184,7 @@
                      <p>© Copyright | All Rights Reserved | 2020</p>
                   </div>
                   <div class="col-md-6 col-sm-6 col-xs-12">
-                     <p class="text-right">Crafted By <a href="#">Green Web Media</a></p>
+                     <p class="text-right">Crafted By <a href="https://upendroid.com/">upendroid</a></p>
                   </div>
                </div>
             </div>
